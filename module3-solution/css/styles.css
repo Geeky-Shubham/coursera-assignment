@@ -3,14 +3,14 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
+    background-color: #7c9df7;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #cfe1f0;
     border-radius: 0;
     border: 0;
 }
@@ -34,7 +34,7 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #7d1913;
+    color: #755cff;
     font-family: 'Abril Fatface', cursive;
     font-weight: bolder;
     font-size: 1.8em;
